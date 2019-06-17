@@ -18,7 +18,7 @@ function reset()
 {
     for(var x=0; x<9; x++)
     {
-        tiles[x].style.background = #fff;
+        tiles[x].style.background = "#fff";
         state[x] = 0;
     }
 
