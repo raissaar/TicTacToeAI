@@ -1,0 +1,61 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+
+    background: rgb(60, 60, 60);
+    text-transform: uppercase;
+
+    color: rgb(60, 60, 60);
+    font-size: 1.5vh;
+}
+
+/* container */
+#main {
+    margin: 0;
+    padding: 0;
+    padding-top: 25vh;
+
+    height: auto;
+    width: 100%;
+}
+
+#board {
+    padding: 0;
+    margin: auto;
+    width: 33vh;
+    height: 33vh;
+}
+
+/* container end*/
+
+.title {
+    padding: 0;
+    margin: 0.5vh;
+
+    height: 10vh;
+    width: 10vh;
+
+    border-radius: 5px;
+    background: #fff;
+
+    cursor: pointer;
+    float: left;
+}
+
+.button {
+    margin: 0.5vh;
+    padding: 0;
+
+    height: 5vh;
+    width: 15.5vh;
+    line-height: 5vh;
+    vertical-align: middle;
+
+    background: #fff;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+
+    float: left;
+}
