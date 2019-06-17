@@ -1,4 +1,4 @@
-var tiles = document.getElementsByClassName("title");
+var tiles = document.getElementsByClassName("tile");
 var buttons = document.getElementsByClassName("button");
 
 //array untuk jumlah kotak dalam board
